@@ -1,0 +1,15 @@
+.pie-chart-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.pie-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
